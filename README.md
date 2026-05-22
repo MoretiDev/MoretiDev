@@ -17,6 +17,7 @@ Desenvolvedor Backend .NET em formação
 
 ## 🛠️ Tecnologias e Skills
 
+- C#
 - ASP.NET Core
 - Entity Framework Core
 - APIs REST
